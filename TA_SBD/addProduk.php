@@ -3,7 +3,7 @@ include_once("config.php");
 
 ?>
 
-<title>Add Makanan</title>
+<title>Add Produk</title>
 </head>
 <body>
 <a href="main.php">Go to Home</a>
